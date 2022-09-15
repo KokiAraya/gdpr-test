@@ -9,5 +9,12 @@
   "allowedForwardedHosts": [
     "GDPRtest-bkduczedbqhcgde0.z01.azurefd.net"
   ]
+    },
+    {
+    "route": "/members",
+    "allowedRoles": ["authenticated, members"],
+    "headers": {
+        "Cache-Control": "no-store"
     }
+}
 }
