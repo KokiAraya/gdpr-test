@@ -10,6 +10,7 @@
     "GDPRtest-bkduczedbqhcgde0.z01.azurefd.net"
   ]
     },
+    
     "routes": [
         {
     "route": "/members",
